@@ -2,7 +2,7 @@
 
 ## Hi There 👋
 
-I’m David Alejandro Gorricho Polanía, Im 25 years old. I’m Informatic Engineer from Sabana University, right now I’m preparing my self to be a DevOps Engineer🚀 
+I’m David Alejandro Gorricho Polanía, Im 25 years old. I’m Informatic Engineer from Sabana University, right now I’m preparing my self to become a DevOps Engineer🚀 
 and I have a little bit experience in this area because I did my intership in Avianca in the DevOps Area.
 
 ## Somthing about me 😎
