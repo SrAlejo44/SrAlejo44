@@ -8,8 +8,21 @@ and I have a little bit experience in this area because I did my intership in Av
 ## Somthing about me 😎:
 
 As you know I’m currently learning all about DevOps and start a branch where you can see what I’m learning and maybe see a new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+🏹 I love play archery, for me it’s a relaxing sport and let me think about life.
+
+🎮 The videogames are my favorite hobby, love to play with friends and laugh.
+
+🤣 I really enjoy watch comedy series like Brookling 99, The Office and Dr.House. 
+
+🦸‍ Marvel fan of all their movies and series. 
+
+⛵ Sometimes I practice sail in sailboat, I really love this sport.
+
+## How to reach me 📫:
+
+<code><img hight="17" width="17" alt="Instagram Logo" title="Instagram" src=Image/instagram.png></code> **[Instagram](https://www.instagram.com/sralejo44/)**
+
 
 <!---
 SrAlejo44/SrAlejo44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
