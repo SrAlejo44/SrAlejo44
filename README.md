@@ -2,14 +2,14 @@
 
 ## Hi There 👋
 
-I’m David Alejandro Gorricho Polanía, Im 25 years old. I’m Informatic Engineer from Sabana University, right now I’m preparing my self to become a DevOps Engineer🚀 
-and I have a little bit experience in this area because I did my intership in Avianca in the DevOps Area.
+I’m David Alejandro Gorricho Polanía, Im 25 years old. I’m an Informatic Engineer from Sabana University, right now I’m preparing myself to become a DevOps Engineer🚀 
+and I have a little bit of experience in this area because I did my internship in Avianca in the DevOps Area.
 
 ## Somthing about me 😎
 
-As you know I’m currently learning all about DevOps and start a repository where you can see what I’m learning and maybe see a new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
+As you know I’m currently learning all about DevOps and starting a repository where you can see what I’m learning and maybe see new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
 
-🏹 I love play archery, for me it’s a relaxing sport and let me think about life.
+🏹 I love play archery, for me it’s a relaxing sport and lets me think about life.
 
 🎮 The videogames are my favorite hobby, love to play with friends and laugh.
 
@@ -30,4 +30,3 @@ As you know I’m currently learning all about DevOps and start a repository whe
 <code><img hight="17" width="17" alt="Instagram Logo" title="Instagram" src=Image/instagram.png></code> **[Instagram](https://www.instagram.com/sralejo44/)**
 
 <code><img hight="17" width="17" alt="Linkedin Logo" title="Linkedin" src=Image/linkedin.png></code> **[Linkedin](https://www.linkedin.com/in/david-alejandro-gorricho-polan%C3%ADa-b649ab10a/)**
-
