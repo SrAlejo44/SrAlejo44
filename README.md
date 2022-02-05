@@ -23,8 +23,5 @@ As you know I’m currently learning all about DevOps and start a branch where y
 
 <code><img hight="17" width="17" alt="Instagram Logo" title="Instagram" src=Image/instagram.png></code> **[Instagram](https://www.instagram.com/sralejo44/)**
 
+<code><img hight="17" width="17" alt="Linkedin Logo" title="Linkedin" src=Image/linkedin.png></code> **[Linkedin](https://www.linkedin.com/in/david-alejandro-gorricho-polan%C3%ADa-b649ab10a/)**
 
-<!---
-SrAlejo44/SrAlejo44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
