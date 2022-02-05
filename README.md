@@ -5,7 +5,7 @@
 I’m David Alejandro Gorricho Polanía, Im 25 years old. I’m Informatic Engineer from Sabana University, right now I’m preparing my self to be a DevOps Engineer🚀 
 and I have a little bit experience in this area because I did my intership in Avianca in the DevOps Area.
 
-## Somthing about me 😎:
+## Somthing about me 😎
 
 As you know I’m currently learning all about DevOps and start a branch where you can see what I’m learning and maybe see a new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
 
@@ -19,7 +19,13 @@ As you know I’m currently learning all about DevOps and start a branch where y
 
 ⛵ Sometimes I practice sail in sailboat, I really love this sport.
 
-## How to reach me 📫:
+## Tech Stack 🛠 
+
+<code><img hight="40" width="40" alt="Azure Logo" title="Azure DevOps" src=Image/azure_devops.png></code>
+<code><img hight="40" width="40" alt="AWS Logo" title="AWS" src=Image/aws.png></code>
+<code><img hight="40" width="40" alt="SQL Server Logo" title="SQL Server" src=Image/sql-server.png></code>
+
+## How to reach me 📫
 
 <code><img hight="17" width="17" alt="Instagram Logo" title="Instagram" src=Image/instagram.png></code> **[Instagram](https://www.instagram.com/sralejo44/)**
 
