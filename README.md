@@ -7,7 +7,7 @@ and I have a little bit experience in this area because I did my intership in Av
 
 ## Somthing about me 😎
 
-As you know I’m currently learning all about DevOps and start a branch where you can see what I’m learning and maybe see a new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
+As you know I’m currently learning all about DevOps and start a repository where you can see what I’m learning and maybe see a new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
 
 🏹 I love play archery, for me it’s a relaxing sport and let me think about life.
 
