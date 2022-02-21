@@ -1,4 +1,4 @@
-![Banner Image](Image/banner.png)
+![Banner Image](Image/banner.png)   
 
 ## Hi There 👋
 
@@ -7,7 +7,7 @@ and I have a little bit of experience in this area because I did my internship i
 
 ## Somthing about me 😎
 
-As you know I’m currently learning all about DevOps and starting a repository where you can see what I’m learning and maybe see new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
+As you know I’m currently learning all about DevOps and starting a **[repository](https://github.com/SrAlejo44/DevOps)** where you can see what I’m learning and maybe see new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
 
 🏹 I love play archery, for me it’s a relaxing sport and lets me think about life.
 
