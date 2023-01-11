@@ -2,12 +2,12 @@
 
 ## Hi There 👋
 
-I’m David Alejandro Gorricho Polanía, Im 25 years old. I’m an Informatic Engineer from Sabana University, right now I’m preparing myself to become a DevOps Engineer🚀 
-and I have a little bit of experience in this area because I did my internship in Avianca in the DevOps Area.
+I’m David Alejandro Gorricho Polanía, Im 26 years old. I’m an Informatic Engineer from Sabana University, right now I’m preparing myself to become a DevOps Engineer🚀 
+and I have a little bit of experience in this area because I did my internship in Avianca in the DevOps Area and right now im working as a Service Design DevOps in B-Secure.
 
 ## Somthing about me 😎
 
-As you know I’m currently learning all about DevOps and starting a **[repository](https://github.com/SrAlejo44/DevOps)** where you can see what I’m learning and maybe see new things🧐. Further, I am working as an IT team leader in a startup **[BePelican](https://bepelican.org)**.
+As you know I’m currently learning all about DevOps and starting a **[DevOps repository](https://github.com/SrAlejo44/DevOps)** with my own learning and another reposiroty with a friend **[Our-DevOps-Journey](https://github.com/SrAlejo44/Our-DevOps-Journey)** where you can see what I’m learning and maybe see new things🧐. Further, I am workingas a Service Design DevOps in **[B-Secure](https://www.b-secure.co/)**.
 
 🏹 I love play archery, for me it’s a relaxing sport and lets me think about life.
 
@@ -24,6 +24,13 @@ As you know I’m currently learning all about DevOps and starting a **[reposito
 <code><img hight="40" width="40" alt="Azure Logo" title="Azure DevOps" src=Image/azure_devops.png></code>
 <code><img hight="40" width="40" alt="AWS Logo" title="AWS" src=Image/aws.png></code>
 <code><img hight="40" width="40" alt="SQL Server Logo" title="SQL Server" src=Image/sql-server.png></code>
+<code><img hight="40" width="40" alt="Git Logo" title="GIT" src=Image/git.png></code>
+<code><img hight="40" width="40" alt="Bash Logo" title="Bash" src=Image/bash.png></code>
+<code><img hight="40" width="40" alt="Python Logo" title="Python" src=Image/python.png></code>
+<code><img hight="40" width="40" alt="PowerShell Logo" title="PowerShell" src=Image/powershell.png></code>
+<code><img hight="40" width="40" alt="Docker Logo" title="Docker" src=Image/docker.png></code>
+<code><img hight="40" width="40" alt="Vagrant Logo" title="Vagrant" src=Image/vagrant.png></code>
+<code><img hight="40" width="40" alt="Logrhythm Logo" title="Logrhythm" src=Image/logrhythm.png></code>
 
 ## How to reach me 📫
 
